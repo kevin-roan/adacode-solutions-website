@@ -1,6 +1,9 @@
-export default Colors = {
+const Colors = {
   background: "white",
-  primary: "#00a0aa",
-  secondary: "#cacaca",
-  footer: "black",
+  primary: "teal",
+  secondary: "#2A3745",
+  misc: "#EAE327",
+  footer: "#00000",
+  buttonBg: "#f0f0f0",
 };
+export default Colors;
